@@ -1,4 +1,4 @@
-package netter
+package netgo
 
 import (
 	"fmt"
